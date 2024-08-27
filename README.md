@@ -37,14 +37,4 @@ Welcome to the frontend of the Todo Application. This project allows users to ma
    cd todo-application-frontend
   ```
 
-3. Install the dependencies:
-```window
-npm install
-```
-
-## Running the Application
-
-```
-npm run dev
-```
 
