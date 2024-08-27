@@ -33,8 +33,7 @@ Welcome to the frontend of the Todo Application. This project allows users to ma
    git clone https://github.com/your-username/todo-application-frontend.git
    ```
 2. Navigate to the project directory:
+   
    ```window
    cd todo-application-frontend
-  ```
-
-
+   ```
