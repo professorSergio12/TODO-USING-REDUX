@@ -16,7 +16,6 @@ Welcome to the frontend of the Todo Application. This project allows users to ma
 - **React.js**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **Redux Toolkit**: For state management and handling side effects.
-- **Axios**: For making HTTP requests to the backend (if used).
 
 ## Getting Started
 
@@ -37,3 +36,16 @@ Welcome to the frontend of the Todo Application. This project allows users to ma
    ```window
    cd todo-application-frontend
    ```
+3. Install the dependencies:
+
+   ```window
+   npm install
+   ```
+   
+##Running the Application
+```
+npm run dev
+```
+
+
+   
